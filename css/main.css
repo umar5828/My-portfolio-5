@@ -1,0 +1,127 @@
+.btn{
+    background-color: #ff52bf;
+}
+.btn:hover{
+    background-color: #ff52bf;
+    color: white;
+}
+.header_top{
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+}
+.button_box{
+    border: none;
+    transition: all 0.2s linear;
+    border-radius: 20px;
+    box-shadow: #ff52bf 0px 1px 4px;
+    color: #ff52bf;
+    background-color: #fff;
+    padding: 0.25rem 1.5rem;
+}
+.button_box:focus {
+    background-color: #ff52bf;
+    color: #fff;
+}
+.header-center>h1{
+    font-family: "Inter", sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+    margin-bottom: 50px;
+}
+.header-center>p{
+    font-family: "Overpass", sans-serif;
+    width: 45%;
+    margin: 0 auto;
+    margin-bottom: 40px;
+}
+.btn-1{
+    display: flex;
+    align-items: center;
+    margin: 0 auto !important;
+    border: none;
+    border-radius: 25px;
+    color: #f5faff;
+    padding: 1rem 2.5rem;
+    font-size: 17px;
+    transition: all 0.2s linear;
+    font-weight: 500;
+    box-shadow: rgb(0 0 0 / 20%) 0px 10px 15px -3px, rgb(0 0 0 / 5%) 0px 4px 6px -2px;
+    margin-bottom: 30px !important;
+}
+.img-1{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+    margin-bottom: 80px;
+}
+.section-about{
+    display: flex;
+    justify-content: space-evenly
+}
+.about-img{
+    width: 32px;
+    vertical-align: middle;
+}
+.about-h1{
+    font-family: "Inter", sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+}
+.about-p{
+    color: rgba(0, 0, 0, 0.35);
+    font-family: "Overpass", sans-serif;
+    font-weight: 500;
+}
+.section-2-text h1{
+    font-size: 36px;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    margin-bottom: 2.5rem;
+}
+.section-2-text h5{
+    font-family: "Overpass", sans-serif;
+    font-size: 17px;
+}
+.section-2-img img{
+    width: 566px;
+    height: 463px;
+}
+.section-2-img-2 img{
+    width: 566px;
+    height: 400px;
+}
+.ikki{
+    margin-top: 100px;
+}
+.section-3-text{
+    font-family: "Inter", sans-serif;
+    font-size: 46px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.footer{
+    height: 350px;
+    background-color: #00252E;
+}
+.footer-bottom{
+    height: 50px;
+}
+.section-3{
+    margin-bottom: 100px;
+}
+.footer{
+    color: white;
+}
+.footer-title{
+    width: 80%;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 1rem;
+}
+.icon a i{
+    color: white;
+    margin-right: 20px;
+}
